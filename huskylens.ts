@@ -133,8 +133,8 @@ enum protocolAlgorithm {
 }
 
 
-//% weight=100  color=#e7660b icon="\uf083"  block="HuskyLens"
-namespace huskylens {
+//% weight=100  color=#000000 icon="\uf083"  block="HuskyLens"
+namespace SP_AI_CAMERA {
     let protocolPtr: number[][] = [[0], [0], [0], [0], [0], [0], [0], [0], [0], [0]]
     let Protocol_t: number[] = [0, 0, 0, 0, 0, 0]
     let i = 1;
